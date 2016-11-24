@@ -22,6 +22,7 @@
        * [Linting](handout/features/linting.md)
        * [TypeScript Features](handout/features/typescript_features.md)
        * [TypeScript Classes](handout/features/typescript_classes.md)
+       * [TypeScript Functions](handout/features/typescript_functions.md)
        * [Interfaces](handout/features/interfaces.md)
        * [Shapes](handout/features/shapes.md)
        * [Type Inference](handout/features/type_inference.md)
